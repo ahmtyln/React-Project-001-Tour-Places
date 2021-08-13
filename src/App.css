@@ -55,7 +55,7 @@ body {
   height: 50vh;
   background-color: #0C1B38;
   display: inline-flex;
-  justify-content: space-around;
+  
   flex-wrap: wrap;
   margin: 10px 40px;
   border-radius: 10px;
